@@ -216,3 +216,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files (add to .gitignore)
+   *.csv
+   *.xlsx
+   *.xls
+   
+# Jupyter Notebook
+   .ipynb_checkpoints/
+   *.ipynb_checkpoints
+   
+ # Python
+   __pycache__/
+   *.py[cod]
+   *$py.class
+   *.so
+   .Python
+   venv/
+   ENV/
+   
+ # IDE
+   .vscode/
+   .idea/
+   *.swp
